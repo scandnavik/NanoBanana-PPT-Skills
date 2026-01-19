@@ -31,4 +31,14 @@ outputs/
 
 # 测试文件
 test_*.json
+test_*.py
 *_test.py
+test_outputs/
+
+# 临时工具和示例
+fix_json.py
+verify_new_key.py
+*_plan.json
+
+# 下载的参考文档
+可灵*.md
